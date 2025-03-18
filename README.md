@@ -4,10 +4,10 @@ Intrusion Countermeasures Electronics
 **Note:** This is a work in progress!
 
 ## About
-ICE is a work in progress, the whole project is a collection of scripts and firmware for devices to protect systems, servers and networks. <BR>
+ICE is a work in progress, the whole project is a collection of scripts and firmware/code for devices to protect systems, servers and networks. <BR>
 The repo is divided into 2 parts:
 - White ICE - Passive hardening scripts for Desktop and Servers
-- Black ICE - Aggressive (honeypots and such) along with basic hardening scripts for Desktop and Servers
+- Black ICE - Aggressive (honeypots and such) along with basic hardening scripts for Desktop and Servers (WIP)
 
 
 ## Contribution
