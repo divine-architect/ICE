@@ -42,13 +42,6 @@ sudo tee /etc/fail2ban/jail.d/custom.conf > /dev/null << EOF
 bantime = 1h
 findtime = 10m
 maxretry = 5
-
-[sshd]
-enabled = true
-port = ssh
-filter = sshd
-logpath = /var/log/auth.log
-maxretry = 3
 EOF
 
 sudo systemctl enable fail2ban
